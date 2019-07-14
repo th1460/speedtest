@@ -29,4 +29,4 @@ spd_upload_test(only_the_best_servers, config = config) %>%
 	bind_cols(date = Sys.time()) %>%
 	dbWriteTable(canal, "upload", value = ., append = TRUE)
 
-
+dbDisconnect(canal)
