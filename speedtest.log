@@ -1,0 +1,4342 @@
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+Error in library(speedtest) : there is no package called ‘speedtest’
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect root@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  role "root" does not exist
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect postgres@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "postgres"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in postgresqlNewConnection(drv, ...) : 
+  RS-DBI driver: (could not connect pi@/var/run/postgresql:5432 on dbname "speedtest": FATAL:  Peer authentication failed for user "pi"
+)
+Calls: dbConnect -> dbConnect -> postgresqlNewConnection
+Execution halted
